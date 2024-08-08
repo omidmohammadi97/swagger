@@ -1,2 +1,2 @@
 # swagger
-how to config swagger and setup it in your project
+How to run and config swagger in express js Apps
